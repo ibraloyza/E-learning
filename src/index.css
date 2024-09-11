@@ -10,3 +10,10 @@
         hover:shadow-[0px_10px_8px_-7px_#60a79c] py-2 px-6;
     }
 }
+
+
+@layer utilities{
+    .drop-shadow{
+        filter: drop-shadow(6px 8px 10px rgba(0,0,0,0.5));
+    }
+}
