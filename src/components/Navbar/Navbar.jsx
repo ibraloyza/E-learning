@@ -11,22 +11,22 @@ const NavbarMenu = [
   {
     id: 2,
     title: "Services",
-    link: "#",
+    link: "/",
   },
   {
     id: 3,
     title: "About Us",
-    link: "#",
+    link: "/",
   },
   {
     id: 4,
     title: "Our Team",
-    link: "#",
+    link: "/",
   },
   {
     id: 5,
     title: "Contact Us",
-    link: "#",
+    link: "/",
   },
 ];
 const Navbar = () => {
